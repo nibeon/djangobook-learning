@@ -6,13 +6,12 @@ As editor now I using Sublime Text with plugin SublimePythonIDE and jedi.
 
 ### for install
 
-1. create virtual environment djangobook
+create virtual environment djangobook
 
 $ virtualenv --python=python3.4 djangobook
 
-2. Copying directory 'mysite' and file 'requirements.txt' into directory with virtual environment (i.e. into folder 'djangobook') 
-
-3. In terminal go into directory 'djangobook'
+Copying directory 'mysite' and file 'requirements.txt' into directory with virtual environment (i.e. into folder 'djangobook') 
+In terminal go into directory 'djangobook'
 
 $ cd your_direectory_with_projects/djangobook
 
