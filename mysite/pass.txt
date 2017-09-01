@@ -1,0 +1,7 @@
+for http://localhost:8000/admin
+
+-------------------
+
+login: nibeon
+email: nibeon@gmail.com
+password: 1a2b3c4d
