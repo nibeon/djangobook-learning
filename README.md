@@ -30,4 +30,4 @@ $ pip install -r requirements.txt
 
 --
 
-P.S. на момент коммита (01 сентября 2017 г.) остановился на остановился на https://djangobook.com/users-groups-permissions/
+P.S. на момент последнего коммита (05 сентября 2017 г.) остановился на остановился на https://djangobook.com/django-forms/ пункт "Query String Parameters"
