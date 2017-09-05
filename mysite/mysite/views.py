@@ -1,20 +1,11 @@
-#from django.http import HttpResponse
-#from django.template.loader import get_template
-#import datetime
-#
+from django.http import HttpResponse
 
-from django.shortcuts import render
-import datetime
+def hello(request):
+	return HttpResponse("Hello world")
 
-def current_datetime(request):
-    now = datetime.datetime.now()
-    return render(request, 'current_datetime.html', {'current_date': now})
-
-#def hello(request):
-#	return HttpResponse("Hello World")
-	
-#def current_datetime(request):
-#	now = datetime.datetime.now()
-#	t = get_template('current_datetime.html')
-#	html = t.render({'current_date': now})
-#	return HttpResponse(html)
+#def displa_meta(request):
+#	values = request.META
+#	html = []
+#	for k in sorted(values):
+#		html.append('<tr><td>%s</td><td>%s</td></tr>' % (k, values[k]))
+#	return HttpResponse('<table>%s</table>' % '\n'.join(html))
