@@ -30,4 +30,4 @@ $ pip install -r requirements.txt
 
 --
 
-P.S. на момент последнего коммита (05 сентября 2017 г.) остановился на остановился на https://djangobook.com/django-forms/ пункт "Query String Parameters"
+P.S. на момент последнего коммита (12 сентября 2017 г.) остановился на остановился на https://djangobook.com/tying-forms-views/ пункт "Query String Parameters"
