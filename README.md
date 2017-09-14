@@ -30,4 +30,4 @@ $ pip install -r requirements.txt
 
 --
 
-P.S. на момент последнего коммита (12 сентября 2017 г.) остановился на остановился на https://djangobook.com/advanced-views-urlconfs/
+P.S. на момент последнего коммита (14 сентября 2017 г.) остановился на остановился на остановился на https://djangobook.com/advanced-templates/
