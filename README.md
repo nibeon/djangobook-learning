@@ -30,4 +30,4 @@ $ pip install -r requirements.txt
 
 --
 
-P.S. на момент последнего коммита (14 сентября 2017 г.) остановился на остановился на остановился на https://djangobook.com/advanced-templates/
+P.S. на момент последнего коммита (15 сентября 2017 г.) остановился на остановился на остановился на https://djangobook.com/extending-template-system/
