@@ -30,4 +30,4 @@ $ pip install -r requirements.txt
 
 --
 
-P.S. на момент последнего коммита (21 сентября 2017 г.) остановился на остановился на остановился на https://djangobook.com/advanced-models/
+P.S. на момент последнего коммита (13 октября 2017 г.) дошел до на https://djangobook.com/generic-views/
